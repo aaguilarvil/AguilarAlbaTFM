@@ -1,4 +1,4 @@
-# AguilarAlba_TFM
+# Estudio de la conectividad estructural, morfológica y funcional del cerebro en sujetos con esclerosis múltiple
 
 Siendo la segunda causa de discapacidad más frecuente entre los jóvenes en España, y afectando a más de 2,5 millones de personas en el mundo, la esclerosis múltiple (EM) es una enfermedad crónica autoinmune de causa desconocida que se caracteriza por generar múltiples lesiones en el sistema nervioso central (SNC) de aquellos que la padecen. 
 
